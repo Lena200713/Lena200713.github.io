@@ -1,0 +1,14 @@
+.face{
+width: 200px;
+height: 200px;
+border-radius: 100px;
+background:yellow;
+position: relative;
+top: 500px;
+left: 500px;}
+.eye1, .eye2,.mouth{
+  width: 20px;
+  height: 20px;
+  background: black;
+  position: absolute;
+}
